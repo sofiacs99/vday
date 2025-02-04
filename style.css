@@ -9,18 +9,6 @@
     overflow: hidden;
   }
 
-.hello {
-  color: black;
-  font-size: 12px;
-  font-family: proxima-nova, sans-serif;
-  font-weight: 300;
-  font-style: normal;
-  position: absolute;
-  top: 20%;
-  left: 20%;
-  letter-spacing: 0.07em;
-}
-
 .text {
   font-size: 12px;
   font-family: proxima-nova, sans-serif;
