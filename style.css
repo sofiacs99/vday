@@ -9,7 +9,7 @@
     overflow: hidden;
   }
 
-.text {
+.happy {
   font-size: 40px;
   font-family: proxima-nova, sans-serif;
   font-weight: 500;
@@ -21,3 +21,26 @@
   letter-spacing: 0.07em;
   }
 
+  .valentines {
+    font-size: 80px;
+    font-family: 'Franklin Gothic Medium', serif;
+    font-weight: 500;
+    font-style: normal;
+    color: black;
+    position: absolute;
+    top: 55%;
+    left: 25%;
+    letter-spacing: 0.07em;
+    }
+
+    .day {
+      font-size: 40px;
+      font-family: proxima-nova, sans-serif;
+      font-weight: 500;
+      font-style: normal;
+      color: black;
+      position: absolute;
+      top: 65%;
+      left: 35%;
+      letter-spacing: 0.07em;
+      }
