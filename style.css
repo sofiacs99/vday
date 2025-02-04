@@ -10,7 +10,7 @@
   }
 
 .hello {
-  color: red;
+  color: black;
   font-size: 12px;
   font-family: proxima-nova, sans-serif;
   font-weight: 300;
@@ -26,9 +26,9 @@
   font-family: proxima-nova, sans-serif;
   font-weight: 300;
   font-style: normal;
-  color: rgb(170, 170, 170);
+  color: black;
   position: absolute;
-  top: 94.5%;
-  left: 4%;
+  top: 20%;
+  left: 20%;
   letter-spacing: 0.07em;
   }
