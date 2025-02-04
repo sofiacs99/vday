@@ -29,13 +29,13 @@
   font-style: normal;
   color: black;
   position: absolute;
-  top: 6%;
+  top: 5%;
   left: 45%;
   letter-spacing: 0.07em;
   }
 
   .valentines {
-    font-size: 80px;
+    font-size: 75px;
     font-weight: 500;
     font-style: normal;
     color: black;
@@ -62,8 +62,8 @@
       font-style: normal;
       color: black;
       position: absolute;
-      top: 21%;
-      left: 48%;
+      top: 20%;
+      left: 47%;
       letter-spacing: 0.07em;
       }
 
