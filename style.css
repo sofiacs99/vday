@@ -74,7 +74,9 @@
         height: 100vh;
         display: grid;
         place-items: center;
+        top: 50%;
       }
+      
       .container > .envelope-wrapper {
         background: whitesmoke;
         box-shadow: 0 0 40px var(--shadow-color);
@@ -122,7 +124,7 @@
       .envelope > .letter > .text {
         color: var(--txt-color);
         text-align: center;
-        font-size: 10px;
+        font-size: 9px;
           font-family: "Fraunces", serif;
           font-weight: 200;
           font-style: normal;
