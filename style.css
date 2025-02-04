@@ -76,7 +76,7 @@
         place-items: center;
       }
       .container > .envelope-wrapper {
-        background: var(--bg-envelope-color);
+        background: whitesmoke;
         box-shadow: 0 0 40px var(--shadow-color);
       }
       .envelope-wrapper > .envelope {
@@ -131,14 +131,14 @@
             "WONK" 0;
         }
       
-        
+
       .heart {
         position: absolute;
         top: 50%;
         left: 50%;
         width: 15px;
         height: 15px;
-        background: var(--heart-color);
+        background: maroon;
         z-index: 4;
         transform: translate(-50%, -20%) rotate(45deg);
         transition: transform 0.5s ease-in-out 1s;
@@ -151,7 +151,7 @@
         position: absolute;
         width: 15px;
         height: 15px;
-        background-color: var(--heart-color);
+        background-color: maroon;
         border-radius: 50%;
       }
       .heart:before {
