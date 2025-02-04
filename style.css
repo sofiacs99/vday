@@ -23,24 +23,24 @@
   }
 
 .happy {
-  font-size: 40px;
+  font-size: 30px;
   font-family: proxima-nova, sans-serif;
   font-weight: 500;
   font-style: normal;
   color: black;
   position: absolute;
-  top: 8%;
+  top: 6%;
   left: 43%;
   letter-spacing: 0.07em;
   }
 
   .valentines {
-    font-size: 90px;
+    font-size: 80px;
     font-weight: 500;
     font-style: normal;
     color: black;
     position: absolute;
-    top: 15%;
+    top: 13%;
     left: 28%;
     letter-spacing: 0.07em;
     }
@@ -56,14 +56,14 @@
     }
 
     .day {
-      font-size: 40px;
+      font-size: 30px;
       font-family: proxima-nova, sans-serif;
       font-weight: 500;
       font-style: normal;
       color: black;
       position: absolute;
-      top: 27%;
-      left: 46%;
+      top: 25%;
+      left: 44%;
       letter-spacing: 0.07em;
       }
 
