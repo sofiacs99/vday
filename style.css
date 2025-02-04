@@ -73,10 +73,8 @@
       .container {
         height: 100vh;
         display: grid;
-        left: 40%;
-        top: 50%;
+        place-items: center;
       }
-
       .container > .envelope-wrapper {
         background: whitesmoke;
         box-shadow: 0 0 40px var(--shadow-color);
