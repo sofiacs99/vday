@@ -5,9 +5,9 @@
   :root{
     --primary: #fff;
     --bg-color: rgb(239, 239, 239);
-    --bg-envelope-color: #faf5e5;
+    --bg-envelope-color: #ededec;
     --envelope-tab: #ebe1c6;
-    --envelope-cover: #f4e0bd;
+    --envelope-cover: #eaeaea;
     --shadow-color: rgba(0, 0, 0, 0.2);
     --txt-color: #444;
     --heart-color: maroon;
@@ -29,7 +29,7 @@
   font-style: normal;
   color: black;
   position: absolute;
-  top: 33%;
+  top: 13%;
   left: 43%;
   letter-spacing: 0.07em;
   }
@@ -40,7 +40,7 @@
     font-style: normal;
     color: black;
     position: absolute;
-    top: 40%;
+    top: 20%;
     left: 28%;
     letter-spacing: 0.07em;
     }
@@ -62,7 +62,7 @@
       font-style: normal;
       color: black;
       position: absolute;
-      top: 52%;
+      top: 32%;
       left: 46%;
       letter-spacing: 0.07em;
       }
