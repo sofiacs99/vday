@@ -27,7 +27,7 @@
   font-family: proxima-nova, sans-serif;
   font-weight: 500;
   font-style: normal;
-  color: black;
+  color: #cdcdcd;
   position: absolute;
   top: 5%;
   left: 45%;
@@ -38,7 +38,7 @@
     font-size: 75px;
     font-weight: 500;
     font-style: normal;
-    color: black;
+    color: maroon;
     position: absolute;
     top: 10%;
     left: 32%;
@@ -60,7 +60,7 @@
       font-family: proxima-nova, sans-serif;
       font-weight: 500;
       font-style: normal;
-      color: black;
+      color: #cdcdcd;
       position: absolute;
       top: 20%;
       left: 47%;
