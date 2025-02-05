@@ -188,12 +188,12 @@
         min-height: 250px;
         position: absolute;
         z-index: 10;
-        left: 10%;
+        left: 15%;
        }
        
        .hearts {
         position: absolute;
-        left: 35%;
+        left: 45%;
         height: 55%;
         min-height: 25px;
         width: 55%;
