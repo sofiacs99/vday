@@ -335,19 +335,19 @@
          }
        }
        
-       .heartss:nth-child(1) {  
+       .heartss:nth-child(5) {  
          animation-delay: 1s;
        }
        
-       .heartss:nth-child(2) {
+       .heartss:nth-child(6) {
          animation-delay: 2.5s;
        }
        
-       .heartss:nth-child(3) {
+       .heartss:nth-child(7) {
          animation-delay: 3.5s;
        }
        
-       .heartss:nth-child(4) {
+       .heartss:nth-child(8) {
          animation-delay: 4.5s;
        }
 
