@@ -127,7 +127,7 @@
       .envelope > .letter > .text {
         color: var(--txt-color);
         text-align: center;
-        font-size: 9px;
+        font-size: 8px;
           font-family: "Fraunces", serif;
           font-weight: 200;
           font-style: normal;
