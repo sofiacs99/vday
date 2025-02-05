@@ -297,19 +297,19 @@
         animation: floating-love 10s infinite cubic-bezier(0.5, 0.5, 0.5, 0.5);
       }
       
-      .lovely:nth-child(1) {  
+      .love:nth-child(1) {  
         animation-delay: 1s;
       }
       
-      .lovely:nth-child(2) {
+      .love:nth-child(2) {
         animation-delay: 2.5s;
       }
       
-      .lovely:nth-child(3) {
+      .love:nth-child(3) {
         animation-delay: 3.5s;
       }
       
-      .lovely:nth-child(4) {
+      .love:nth-child(4) {
         animation-delay: 4.5s;
       }
       
