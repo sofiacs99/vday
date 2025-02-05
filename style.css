@@ -313,7 +313,7 @@
         animation-delay: 4.5s;
       }
       
-      @keyframes floating-lovely {
+      @keyframes floating-love {
         0% {
           opacity: 0;
           bottom: 0%;
