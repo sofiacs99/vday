@@ -190,7 +190,7 @@
         height: 25%;
         min-height: 250px;
         position: absolute;
-        z-index: 10;
+        z-index: 0;
         left: 45%;
        }
        
