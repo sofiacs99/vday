@@ -271,18 +271,18 @@
 
 
        .love {
-        width: 5%;
+        width: 25%;
         min-width: 100px;
         height: 25%;
         min-height: 300px;
-        position: relative;
-        z-index: 10;
+        position: absolute;
+        z-index: 50;
         left: 60%;
       }
       
       .lovely {
         background-color: var(--color-love);
-        position: relative;
+        position: absolute;
         height: 20%;
         min-height: 15px;
         width: 20%;
