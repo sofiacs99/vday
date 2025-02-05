@@ -296,7 +296,7 @@
         -webkit-mask-position: bottom;
                 mask-position: bottom;
          opacity: 0;
-         animation: floating-heartss 10s infinite cubic-bezier(0.5, 0.5, 0.5, 0.5);
+         animation: floating-heartss 10s infinite cubic-bezier(1, 1, 1, 1);
        }
        
        @keyframes floating-heartss {
@@ -335,19 +335,19 @@
          }
        }
        
-       .heartss:nth-child(5) {  
+       .heartss:nth-child(1) {  
          animation-delay: 1s;
        }
        
-       .heartss:nth-child(6) {
+       .heartss:nth-child(2) {
          animation-delay: 2.5s;
        }
        
-       .heartss:nth-child(7) {
+       .heartss:nth-child(3) {
          animation-delay: 3.5s;
        }
        
-       .heartss:nth-child(8) {
+       .heartss:nth-child(4) {
          animation-delay: 4.5s;
        }
 
