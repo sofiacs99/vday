@@ -275,14 +275,14 @@
         min-width: 100px;
         height: 25%;
         min-height: 300px;
-        position: absolute;
+        position: relative;
         z-index: 10;
         left: 60%;
       }
       
       .lovely {
         background-color: var(--color-love);
-        position: absolute;
+        position: relative;
         height: 20%;
         min-height: 15px;
         width: 20%;
