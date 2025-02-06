@@ -1,6 +1,8 @@
+
 *{
     box-sizing: border-box;
   }
+  
 
   :root{
     --primary: #fff;
@@ -272,17 +274,7 @@
 
 
 
-       
-       @IMPORT <link href="https://fonts.googleapis.com/css?family=Poor+Story" rel="stylesheet">
-
-       * {
-         box-sizing: border-box;
-       }
-       
-       body {
-         font-family: 'Poor Story', cursive;
-         background: #bdffbd;
-       }
+    
        
        .wrapper {
          width: 100%;
