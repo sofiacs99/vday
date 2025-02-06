@@ -295,7 +295,12 @@
          font-size: 1.8rem;
          text-align: center;
          line-height: 2em;
-         font-family: cursive;
+         font-family: "Fraunces", serif;
+          font-weight: 200;
+          font-style: italic;
+          font-variation-settings:
+            "SOFT" 0,
+            "WONK" 0;
        }
        .item {
          width: 30%;
