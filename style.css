@@ -369,11 +369,11 @@
        }
 
        .item:nth-of-type(4n+5) {
-        transform: scale(0.7, 0.7) rotate(-3deg);
+        transform: scale(0.7, 0.7) rotate(6deg);
         transition: all 0.35s;
         position: absolute;
-        left: 70%;
-        top: 20%;
+        left: 65%;
+        top: 15%;
       }
       .item:nth-of-type(4n+5) .polaroid:before {
         transform: rotate(-4deg);
