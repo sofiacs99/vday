@@ -310,7 +310,7 @@
        }
        .item:nth-of-type(4n+1) {
          transform: scale(0.7, 0.7) rotate(-6deg);
-         transition: all 0.35s;
+         transition: all 0.25s;
          position: absolute;
          left: 1%;
          top: 8%;
@@ -325,7 +325,7 @@
        }
        .item:nth-of-type(4n+2) {
          transform: scale(0.7, 0.7) rotate(-3deg);
-         transition: all 0.35s;
+         transition: all 0.25s;
          position: absolute;
          left: 65%;
          top: 50%;
@@ -340,7 +340,7 @@
        }
        .item:nth-of-type(4n+4) {
          transform: scale(0.6, 0.6) rotate(5deg);
-         transition: all 0.35s;
+         transition: all 0.25s;
          position: absolute;
          left: 6%;
          top: 50%;
@@ -356,7 +356,7 @@
        .item:nth-of-type(4n+3) {
         display: none; 
         transform: scale(0.7, 0.7) rotate(-3deg);
-         transition: all 0.35s;
+         transition: all 0.25s;
          position: absolute;
          left: 40%;
          top: 53%;
@@ -373,7 +373,7 @@
 
        .item:nth-of-type(4n+5) {
         transform: scale(0.6, 0.6) rotate(6deg);
-        transition: all 0.35s;
+        transition: all 0.25s;
         position: absolute;
         left: 70%;
         top: 10%;
@@ -389,8 +389,8 @@
 
        .item:hover {
          filter: none;
-         transform: scale(1, 1) rotate(0deg) !important;
-         transition: all 0.35s;
+         transform: scale(0.8, 0.8) rotate(0deg) !important;
+         transition: all 0.25s;
 
        }
        .item:hover .polaroid:before {
@@ -403,7 +403,7 @@
          bottom: 0%;
          right: 5%;
          box-shadow: 0 1rem 3rem rgba(0,0,0,0.2);
-         transition: all 0.35s;
+         transition: all 0.25s;
        }
        
 
