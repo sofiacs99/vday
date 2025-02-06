@@ -373,7 +373,7 @@
         transform: scale(0.7, 0.7) rotate(6deg);
         transition: all 0.35s;
         position: absolute;
-        left: 72%;
+        left: 70%;
         top: 10%;
       }
       .item:nth-of-type(4n+5) .polaroid:before {
