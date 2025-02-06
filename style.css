@@ -292,11 +292,11 @@
          height: auto;
        }
        .caption {
-         font-size: 1.8rem;
+         font-size: 1.6rem;
          text-align: center;
          line-height: 2em;
          font-family: "Fraunces", serif;
-          font-weight: 200;
+          font-weight: 400;
           font-style: italic;
           font-variation-settings:
             "SOFT" 0,
