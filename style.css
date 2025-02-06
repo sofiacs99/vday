@@ -78,6 +78,7 @@
         height: 100vh;
         display: grid;
         place-items: center;
+        position: absolute;
       }
       .container > .envelope-wrapper {
         background: whitesmoke;
