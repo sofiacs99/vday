@@ -417,8 +417,15 @@
 
 
 
-
-
+       .mini_heart{
+       position: absolute;
+       top: 40%;
+       left: 155;
+       width: 15px;
+       height: 15px;
+       background-color: maroon;
+       border-radius: 50%;
+       }
 
 
 
