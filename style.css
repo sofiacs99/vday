@@ -419,8 +419,9 @@
 
        .mini_heart{
           position: absolute;
-          top: 60%;
-          left: 3%;
+          top: 63%;
+          left: 4%;
+          rotate: -3deg;
           height: 5%;
           min-height: 5px;
           width: 5%;
