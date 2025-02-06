@@ -311,8 +311,8 @@
          transform: scale(0.7, 0.7) rotate(-5deg);
          transition: all 0.35s;
          position: absolute;
-         left: 2%;
-         top: 10%;
+         left: 1%;
+         top: 8%;
        }
        .item:nth-of-type(4n+1) .polaroid:before {
          transform: rotate(6deg);
@@ -326,7 +326,7 @@
          transform: scale(0.7, 0.7) rotate(3deg);
          transition: all 0.35s;
          position: absolute;
-         left: 70%;
+         left: 65%;
          top: 50%;
        }
        .item:nth-of-type(4n+2) .polaroid:before {
@@ -341,8 +341,8 @@
          transform: scale(0.7, 0.7) rotate(3deg);
          transition: all 0.35s;
          position: absolute;
-         left: 10%;
-         top: 50%;
+         left: 9%;
+         top: 52%;
        }
        .item:nth-of-type(4n+4) .polaroid:before {
          transform: rotate(2deg);
@@ -357,7 +357,7 @@
          transition: all 0.35s;
          position: absolute;
          left: 40%;
-         top: 50%;
+         top: 53%;
        }
        .item:nth-of-type(4n+3) .polaroid:before {
          transform: rotate(-4deg);
@@ -372,7 +372,7 @@
         transform: scale(0.7, 0.7) rotate(6deg);
         transition: all 0.35s;
         position: absolute;
-        left: 68%;
+        left: 69%;
         top: 10%;
       }
       .item:nth-of-type(4n+5) .polaroid:before {
