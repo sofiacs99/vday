@@ -309,7 +309,7 @@
          transition: all 0.35s;
        }
        .item:nth-of-type(4n+1) {
-         transform: scale(0.7, 0.7) rotate(-5deg);
+         transform: scale(0.7, 0.7) rotate(-6deg);
          transition: all 0.35s;
          position: absolute;
          left: 1%;
