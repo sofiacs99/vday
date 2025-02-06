@@ -312,7 +312,7 @@
          transition: all 0.35s;
          position: absolute;
          left: 5%;
-         top: 18%;
+         top: 10%;
        }
        .item:nth-of-type(4n+1) .polaroid:before {
          transform: rotate(6deg);
@@ -323,11 +323,11 @@
          box-shadow: 0 2.1rem 2rem rgba(0,0,0,0.4);
        }
        .item:nth-of-type(4n+2) {
-         transform: scale(0.8, 0.8) rotate(3deg);
+         transform: scale(0.7, 0.7) rotate(3deg);
          transition: all 0.35s;
          position: absolute;
          left: 70%;
-         top: 18%;
+         top: 12%;
        }
        .item:nth-of-type(4n+2) .polaroid:before {
          transform: rotate(-3deg);
@@ -338,11 +338,11 @@
          box-shadow: 0 2.1rem 2rem rgba(0,0,0,0.4);
        }
        .item:nth-of-type(4n+4) {
-         transform: scale(0.8, 0.8) rotate(3deg);
+         transform: scale(0.7, 0.7) rotate(3deg);
          transition: all 0.35s;
          position: absolute;
          left: 10%;
-         top: 40%;
+         top: 50%;
        }
        .item:nth-of-type(4n+4) .polaroid:before {
          transform: rotate(2deg);
@@ -353,11 +353,11 @@
          box-shadow: 0 2.1rem 2rem rgba(0,0,0,0.3);
        }
        .item:nth-of-type(4n+3) {
-         transform: scale(0.8, 0.8) rotate(-3deg);
+         transform: scale(0.7, 0.7) rotate(-3deg);
          transition: all 0.35s;
          position: absolute;
-         left: 25%;
-         top: 40%;
+         left: 40%;
+         top: 50%;
        }
        .item:nth-of-type(4n+3) .polaroid:before {
          transform: rotate(-4deg);
