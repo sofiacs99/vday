@@ -459,7 +459,7 @@
       position: absolute;
       top: 76%;
       left: 93%;
-      rotate: 9deg;
+      rotate: -9deg;
       height: 3%;
       min-height: 5px;
       width: 3%;
@@ -478,7 +478,7 @@
     position: absolute;
     top: 85%;
     left: 31%;
-    rotate: 7deg;
+    rotate: 9deg;
     height: 3.5%;
     min-height: 5px;
     width: 3.5%;
